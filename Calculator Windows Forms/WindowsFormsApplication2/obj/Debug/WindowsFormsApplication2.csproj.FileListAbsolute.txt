@@ -1,0 +1,18 @@
+F:\visual studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\visual studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\visual studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\visual studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\visual studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Calculator.resources
+F:\visual studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\visual studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\visual studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\visual studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\visual studio\Calculator Windows Forms\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\visual studio\Calculator Windows Forms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\visual studio\Calculator Windows Forms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\visual studio\Calculator Windows Forms\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\visual studio\Calculator Windows Forms\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\visual studio\Calculator Windows Forms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\visual studio\Calculator Windows Forms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Calculator.resources
+F:\visual studio\Calculator Windows Forms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\visual studio\Calculator Windows Forms\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
